@@ -11,22 +11,18 @@
     height: 0px;
 }
 
-
-
-
 img{
     width: 100vw;
     
 }
 
 a{
-    display: block;
+   display: block;
     text-align: center;
+    text-decoration: none;
     padding: 20px;
     background-color: darkred;
     color: white;
-    text-decoration: none;
-    
 }
 
 a:hover{
